@@ -37,6 +37,3 @@ All PDB files used for testing purposes of the script are available as a .zip fi
 
 ## Pre-requisites
 Python 2 or 3
-
-## Authors
-Justyna Gredecka
