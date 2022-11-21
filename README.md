@@ -1,4 +1,5 @@
-# PDBParser
+<img width="178" alt="Screenshot 2022-11-21 at 15 27 48" src="https://user-images.githubusercontent.com/25756557/203093449-677eadb9-d931-4039-bb8f-0ff8f10c155a.png">
+
 
 ## About
 PDBParser is a computational tool used for parsing and analysing protein structural information from [Protein Data Bank](https://www.rcsb.org "RCSB PDB Homepage") (PDB) files. The main purpose of the tool is to analyse the frequency and composition of the two main elements of protein secondary structure, namely alpha-helices and beta-sheets. Currently, PDBParser accepts PDB files containing single and multiple polypeptide chains and a single structural model, i.e. files that do not contain MODEL/ENDMDL tags. 
