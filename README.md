@@ -36,4 +36,5 @@ All PDB files used for testing purposes of the script are available as a .zip fi
 * Produces barchart plots of the residue distribution in a single protein (4) and the residue propensities (6).
 
 ## Pre-requisites
-Python 2 or 3
+- Python 2 or 3
+- matplotlib
